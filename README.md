@@ -11,7 +11,7 @@ Suggests products to users based on preferences, budget, features, and semantic 
 ![Ollama](https://img.shields.io/badge/Ollama-Mistral-orange)
 ![License](https://img.shields.io/badge/License-MIT-red)
 
-</div>
+</div>   
 
 ---
 
