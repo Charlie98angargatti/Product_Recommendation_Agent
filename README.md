@@ -14,21 +14,22 @@ Suggests products to users based on preferences, budget, features, and semantic 
 </div>
 
 ---
+
 ## 📚 Table of Contents
 
-- Overview
-- Features
-- Architecture
-- Project Structure
-- Dataset
-- Recommendation Workflow
-- Installation
-- Running the Project
-- Sample Inputs & Outputs
-- Testing
-- Screenshots
-- Tradeoffs & Limitations
-- Future Improvements
+- [🚀 Overview](#overview)
+- [✨ Features](#features)
+- [🏗️ Architecture](#architecture)
+- [📂 Project Structure](#project-structure)
+- [📊 Dataset](#dataset)
+- [🔄 Recommendation Workflow](#recommendation-workflow)
+- [⚙️ Installation](#installation)
+- [▶️ Running the Project](#running-the-project)
+- [📝 Sample Inputs & Outputs](#sample-inputs--outputs)
+- [🧪 Testing](#testing)
+- [📸 Screenshots](#screenshots)
+- [⚖️ Tradeoffs & Limitations](#tradeoffs--limitations)
+- [🚀 Future Improvements](#future-improvements)
 
 ---
 
