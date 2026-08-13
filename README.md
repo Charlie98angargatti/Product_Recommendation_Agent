@@ -14,58 +14,21 @@ Suggests products to users based on preferences, budget, features, and semantic 
 </div>
 
 ---
+## 📚 Table of Contents
 
-# 🚀 Overview
-
-...
-
-# ✨ Features
-
-...
-
-# 🏗️ Architecture
-
-...
-
-# 📂 Project Structure
-
-...
-
-# 📊 Dataset
-
-...
-
-# 🔄 Recommendation Workflow
-
-...
-
-# ⚙️ Installation
-
-...
-
-# ▶️ Running the Project
-
-...
-
-# 📝 Sample Inputs & Outputs
-
-...
-
-# 🧪 Testing
-
-...
-
-# 📸 Screenshots
-
-...
-
-# ⚖️ Tradeoffs & Limitations
-
-...
-
-# 🚀 Future Improvements
-
-...
+- Overview
+- Features
+- Architecture
+- Project Structure
+- Dataset
+- Recommendation Workflow
+- Installation
+- Running the Project
+- Sample Inputs & Outputs
+- Testing
+- Screenshots
+- Tradeoffs & Limitations
+- Future Improvements
 
 ---
 
