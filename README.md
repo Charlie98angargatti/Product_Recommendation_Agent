@@ -157,13 +157,14 @@ The dataset contains products with:
 - Storage
 - Battery
 - Camera
-- Popularity Score
+- rating
 - Description
 
 Supported Categories:
 
 - Laptop
 - Smartphone
+- Headphone
 
 ---
 
@@ -225,13 +226,6 @@ LLM generates explanation.
 ---
 
 # ⚙️ Installation
-
-Clone Repository
-
-```bash
-git clone YOUR_GITHUB_URL
-cd product-recommendation-agent
-```
 
 Create Virtual Environment
 
@@ -359,9 +353,10 @@ Suitable for programming and office work.
 Current Version
 
 - Small dataset
+- LLM Parses Preferences
 - Content-based recommendation only
 - No collaborative filtering
-- Local LLM may hallucinate product specifications
+- Local LLM Generates Explanation
 - Limited categories
 
 Why this approach?
@@ -386,7 +381,7 @@ Why this approach?
 
 # 👨‍💻 Author
 
-Karthik
+Karthik.C.Angargatti
 
 Master of Engineering – Big Data Analytics
 
