@@ -45,7 +45,7 @@ The Product Recommendation Agent is an AI-powered recommendation system that hel
 
 The system combines:
 
-1. Rule-Based Filtering
+1. LLM Extract Parse Preferences
 2. Content-Based Recommendation
 3. Semantic Similarity Search
 4. LLM-Generated Explanations
