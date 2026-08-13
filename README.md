@@ -17,7 +17,7 @@ Suggests products to users based on preferences, budget, features, and semantic 
 
 ## 📚 Table of Contents
 
-- [🚀 Overview](#overview)
+- [🚀 Overview](#-overview)
 - [✨ Features](#features)
 - [🏗️ Architecture](#architecture)
 - [📂 Project Structure](#project-structure)
