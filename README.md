@@ -75,34 +75,44 @@ The system combines:
 # 🏗️ Architecture
 
 ```text
-User Query
-     │
-     ▼
-Mistral LLM (Ollama)
-     │
-     ▼
-Preference Extraction
-     │
-     ▼
-Hard Filtering
-(Category, Budget)
-     │
-     ▼
-Scoring Engine
- ├── Attribute Match
- ├── Budget Fit
- ├── Brand Match
- ├── Popularity
- └── Semantic Similarity
-     │
-     ▼
-Ranking
-     │
-     ▼
-Top Recommendations
-     │
-     ▼
-LLM Explanation Generation
+                     USER
+                      │
+                      ▼
+
+          Natural Language Query
+                      │
+                      ▼
+
+          Ollama (Mistral Model)
+                      │
+                      ▼
+
+         Preference Extraction
+                      │
+                      ▼
+
+      Structured User Preferences
+                      │
+                      ▼
+
+      Recommendation Engine
+      ├── Hard Filtering
+      ├── Attribute Matching
+      ├── Budget Scoring
+      ├── Semantic Similarity
+      └── Popularity Score
+                      │
+                      ▼
+
+            Ranked Products
+                      │
+                      ▼
+
+       AI Explanation Generator
+                      │
+                      ▼
+
+          Final Recommendations
 ```
 
 ---
