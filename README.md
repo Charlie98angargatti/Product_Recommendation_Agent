@@ -131,6 +131,14 @@ frontend/
 ├── script.js
 └── style.css
 
+
+Screenshots/
+├── Homepage.png
+├── Recommendation_1.png
+├── Recommendation_2.png
+├── Cold_Satrt_1.png
+├── Cold_Start_2.png
+
 tests/
 └── test_recommendation.py
 ```
