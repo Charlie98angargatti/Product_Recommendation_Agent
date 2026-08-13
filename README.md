@@ -165,6 +165,29 @@ Supported Categories:
 - Laptop
 - Smartphone
 - Headphone
+- 
+Catalog Size :
+
+- 10 Laptops
+- 10 Smartphones
+- 10 Headphones
+- Total: 30 Items
+
+### Sample User Profiles
+
+To simulate real-world recommendation scenarios, the system includes predefined user personas stored in `user_profiles.json`.
+
+| User Type | Purpose |
+|------------|----------|
+| Programmer | Performance-focused laptop recommendations |
+| Photography Enthusiast | Camera-centric smartphone recommendations |
+| Gym Regular | Budget audio device recommendations |
+| Business Traveler | Lightweight laptop with long battery life |
+| Budget Student | Affordable smartphone recommendations |
+| Guest User | Cold-start recommendation testing |
+
+These profiles help demonstrate personalized recommendations and provide reproducible test cases for evaluation.
+
 
 ---
 
