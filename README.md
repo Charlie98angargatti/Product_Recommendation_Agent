@@ -336,15 +336,19 @@ Expected:
 
 ## Home Page
 
-![Home]([screenshots/homepage.png](https://github.com/Charlie98angargatti/Product_Recommendation_Agent/blob/main/Screenshots/Homepage.png))
+![Home](Screenshots/Homepage.png)
 
 ## Recommendation Output
 
-![Output](screenshots/recommendation_output.png)
+![Output 1](Screenshots/Recommendation_1.png)
+
+![Output 2](Screenshots/Recommendation_2.png)
 
 ## Cold Start Recommendation
 
-![Cold Start](screenshots/cold_start.png)
+![Cold Start 1](Screenshots/Cold_Start_1.png)
+
+![Cold Start 2](Screenshots/Cold_Start_2.png)
 
 ---
 
