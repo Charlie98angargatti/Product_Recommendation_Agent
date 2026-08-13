@@ -17,7 +17,7 @@ Suggests products to users based on preferences, budget, features, and semantic 
 
 ## 📚 Table of Contents
 
-- [🚀 Overview](#https://github.com/Charlie98angargatti/Product_Recommendation_Agent/blob/main/README.md#-overview)
+- [🚀 Overview](#overview)
 - [✨ Features](#features)
 - [🏗️ Architecture](#architecture)
 - [📂 Project Structure](#project-structure)
