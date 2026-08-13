@@ -1,4 +1,4 @@
-S<div align="center">
+<div align="center">
 
 # 🛒 Product Recommendation Agent
 
