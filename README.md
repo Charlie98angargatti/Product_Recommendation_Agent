@@ -18,18 +18,18 @@ Suggests products to users based on preferences, budget, features, and semantic 
 ## 📚 Table of Contents
 
 - [🚀 Overview](#-overview)
-- [✨ Features](#features)
-- [🏗️ Architecture](#architecture)
-- [📂 Project Structure](#project-structure)
-- [📊 Dataset](#dataset)
+- [✨ Features](#-features)
+- [🏗️ Architecture](%EF%B8%8F-architecture)
+- [📂 Project Structure](#-project-structure)
+- [📊 Dataset](#-dataset)
 - [🔄 Recommendation Workflow](#recommendation-workflow)
-- [⚙️ Installation](#installation)
-- [▶️ Running the Project](#running-the-project)
-- [📝 Sample Inputs & Outputs](#sample-inputs--outputs)
-- [🧪 Testing](#testing)
-- [📸 Screenshots](#screenshots)
-- [⚖️ Tradeoffs & Limitations](#tradeoffs--limitations)
-- [🚀 Future Improvements](#future-improvements)
+- [⚙️ Installation](#%EF%B8%8F-installation)
+- [▶️ Running the Project](#%EF%B8%8F-running-the-project)
+- [📝 Sample Inputs & Outputs](#-sample-inputs--outputs)
+- [🧪 Testing](#-testing)
+- [📸 Screenshots](#-screenshots)
+- [⚖️ Tradeoffs & Limitations](#%EF%B8%8F-tradeoffs--limitations)
+- [🚀 Future Improvements](#-future-improvements)
 
 ---
 
