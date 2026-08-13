@@ -168,7 +168,7 @@ Supported Categories:
 
 ---
 
-# 🤖 Recommendation Workflow
+# 🔄Recommendation Workflow
 
 ### Step 1
 
@@ -295,6 +295,27 @@ http://127.0.0.1:5000
 
 ---
 
+# 📝 Sample Inputs & Outputs
+
+Input:
+
+```text
+I need a laptop under 50000 with 16GB RAM.
+```
+
+Output:
+
+```text
+MSI Modern 14
+Match Score: 66.9%
+
+Reason:
+Matches budget and RAM requirement.
+Suitable for programming and office work.
+```
+
+---
+
 # 🧪 Testing
 
 Run all tests
@@ -327,28 +348,7 @@ Expected:
 
 ---
 
-# 📝 Sample Inputs & Outputs
-
-Input:
-
-```text
-I need a laptop under 50000 with 16GB RAM.
-```
-
-Output:
-
-```text
-MSI Modern 14
-Match Score: 66.9%
-
-Reason:
-Matches budget and RAM requirement.
-Suitable for programming and office work.
-```
-
----
-
-# ⚠️ Tradeoffs & Limitations
+# ⚖️ Tradeoffs & Limitations
 
 Current Version
 
@@ -368,7 +368,7 @@ Why this approach?
 
 ---
 
-# 🔮 Future Improvements
+# 🚀 Future Improvements
 
 - Vector Database
 - RAG-based recommendations
