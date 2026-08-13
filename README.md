@@ -315,19 +315,19 @@ Suitable for programming and office work.
 ```
 
 Sample Input :
-
+```text
 User: Kuvempu – Photography Enthusiast
 
 Query:
 Looking for a smartphone under 30000 with the best possible camera
-
+```
+```text
 Expected Behavior:
 - Detect Smartphone category
 - Extract budget = 30000
 - Prioritize camera quality
 - Rank camera-focused phones higher
-
----
+```
 
 # 🧪 Testing
 
