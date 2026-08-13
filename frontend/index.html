@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Advisor — Product Recommendation Agent</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page">
+
+    <header class="masthead">
+      <span class="eyebrow">AI Product Advisor · running on Ollama Mistral</span>
+      <h1>Tell us what you need.<br>We'll tell you what fits — and what doesn't.</h1>
+      <p class="lede">Every match below is scored by a rules-based engine against real catalog data, then explained by using Ai in an plain language.</p>
+    </header>
+
+    <section class="order-slip">
+      <div class="slip-row">
+        <label for="profile-select">Sample shopper</label>
+        <select id="profile-select">
+          <option value="">— none, I'll type my own —</option>
+        </select>
+      </div>
+
+      <div class="slip-row">
+        <label for="query-input">What are you shopping for?</label>
+        <textarea id="query-input" rows="3" placeholder="e.g. laptop under ₹80,000 for programming, 16GB RAM, battery life matters"></textarea>
+      </div>
+
+      <div class="slip-actions">
+        <button id="recommend-btn" class="btn-primary">Find my matches</button>
+        <button id="cold-start-btn" class="btn-ghost">I have no idea just show me something </button>
+      </div>
+    </section>
+
+    <div id="status" class="status"></div>
+    <details id="parsed-prefs" class="parsed-prefs">
+      <summary>What the model understood</summary>
+      <div id="parsed-prefs-content"></div>
+    </details>
+
+    <section id="results" class="results"></section>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Advisor — Product Recommendation Agent</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page">
+
+    <header class="masthead">
+      <span class="eyebrow">AI Product Advisor · running on Mistral, locally via Ollama</span>
+      <h1>Tell us what you need.<br>We'll tell you what fits — and what doesn't.</h1>
+      <p class="lede">Every match below is scored by a rules-based engine against real catalog data, then explained in plain language. Nothing here is invented.</p>
+    </header>
+
+    <section class="order-slip">
+      <div class="slip-row">
+        <label for="profile-select">Sample shopper</label>
+        <select id="profile-select">
+          <option value="">— none, I'll type my own —</option>
+        </select>
+      </div>
+
+      <div class="slip-row">
+        <label for="query-input">What are you shopping for?</label>
+        <textarea id="query-input" rows="3" placeholder="e.g. laptop under ₹80,000 for programming, 16GB RAM, battery life matters"></textarea>
+      </div>
+
+      <div class="slip-actions">
+        <button id="recommend-btn" class="btn-primary">Find my matches</button>
+        <button id="cold-start-btn" class="btn-ghost">I'm not sure yet — surprise me</button>
+      </div>
+    </section>
+
+    <div id="status" class="status"></div>
+    <details id="parsed-prefs" class="parsed-prefs">
+      <summary>What the model understood</summary>
+      <div id="parsed-prefs-content"></div>
+    </details>
+
+    <section id="results" class="results"></section>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+-->

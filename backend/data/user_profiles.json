@@ -1,0 +1,44 @@
+[
+  {
+    "id": "U01",
+    "name": "Nikhil - Programmer",
+    "description": "Software developer who codes daily, runs Docker containers and multiple IDE windows.",
+    "query": "I need a laptop under 80000 rupees for programming and running multiple apps at once, battery life matters too",
+    "history": ["viewed L07", "viewed L06"]
+  },
+  {
+    "id": "U02",
+    "name": "Kuvempu - Photography Enthusiast",
+    "description": "Loves taking photos on the go, wants the best camera phone without going ultra-premium.",
+    "query": "Looking for a smartphone under 30000 with the best possible camera",
+    "history": ["viewed S02", "viewed S09"]
+  },
+  {
+    "id": "U03",
+    "name": "Robert - Gym Regular",
+    "description": "Works out daily, wants sweat-resistant, secure-fit audio without breaking the bank.",
+    "query": "Need cheap wireless earbuds for the gym, under 3000 rupees, don't care about noise cancellation",
+    "history": []
+  },
+  {
+    "id": "U04",
+    "name": "Meera - Business Traveler",
+    "description": "Frequent flyer, wants a light laptop with long battery life for meetings and email.",
+    "query": "Lightweight laptop for business travel, long battery life, budget around 100000, don't need gaming power",
+    "history": ["viewed L10", "viewed L05"]
+  },
+  {
+    "id": "U05",
+    "name": "Ravi - Budget Student",
+    "description": "College student on a tight budget, phone needs to last a full day.",
+    "query": "Best budget smartphone under 16000 with good battery life for a student",
+    "history": []
+  },
+  {
+    "id": "U06",
+    "name": "Guest User (Cold Start)",
+    "description": "New visitor with no browsing history and no stated preferences.",
+    "query": "",
+    "history": []
+  }
+]
