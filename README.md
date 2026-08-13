@@ -336,7 +336,7 @@ Expected:
 
 ## Home Page
 
-![Home](screenshots/homepage.png)
+![Home]([screenshots/homepage.png](https://github.com/Charlie98angargatti/Product_Recommendation_Agent/blob/main/Screenshots/Homepage.png))
 
 ## Recommendation Output
 
